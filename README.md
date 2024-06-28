@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Gilbert%20Ramos-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/gramost)](https://www.linkedin.com/in/gramost)
 [![Gmail](https://img.shields.io/badge/-gramosti20@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:gramosti20@gmail.com)](mailto:gramosti20@gmail.com)
-[![Portfolio](https://img.shields.io/badge/iamgilbert.lat-000000?style=flat-square&logo=About.me&logoColor=white)](iamgilbert.lat)
+[![Portfolio](https://img.shields.io/badge/iamgilbert.lat-000000?style=flat-square&logo=About.me&logoColor=white)](https://iamgilbert.lat)
 
 
 
