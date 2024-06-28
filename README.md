@@ -13,6 +13,10 @@
 [![LinkedIn](https://img.shields.io/badge/-Gilbert%20Ramos-blue?style=plastic&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/gramost)](https://www.linkedin.com/in/gramost)
 [![Gmail Badge](https://img.shields.io/badge/-gramosti20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gramosti20@gmail.com)](mailto:gramosti20@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/Gilbert%20Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/gramost&target=_blank)](https://www.linkedin.com/in/gramost)
+[![Portfolio](https://img.shields.io/badge/iamgilbert.lat-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+
+
 
 
 
