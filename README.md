@@ -1,32 +1,28 @@
-<h1 align="center">Hola 👋 soy Juanjo, desarrollador Full-Stack especializado en Java</h1>
-
-___
+<h1 align="center">Hi👋 I'm Gilbert</h1>
+<p align="center">Full-Stack developer</p>
 
 <br>
 
-## ¿Quieres saber un poco más sobre mí?
+## About me
 
-~~~ javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Java, Kotlin, PHP, Javascript, Typescript, HTML, CSS, SQL],
-   technologies: {
-      frontEnd: {
-         java: ["Thymeleaf", "JavaFx"],
-         Typescript: ["Angular"],
-         js: ["jQuery, Ajax, PWA"],
-         css: ["Bootstrap", "Material Design"]
-      },
-      backEnd: {
-         java: ["SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
-         PHP: ["Codeigniter"],
-         Otras: ["Docker"]
-      },
-      databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate", "Postgre", "MongoDb", "Firebase"],
-      mobile: ["Android"]
-   },
-   currentOccupation: ["I continue training and open for job opportunities"]
-};
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studied Computer Engineering.
+- 💼 &nbsp; Learning about Native Application Development(Flutter and React Native).
+- 👾 &nbsp; A **student** working his way around things
+
+[![LinkedIn](https://img.shields.io/badge/-Gilbert%20Ramos-blue?style=plastic&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/gramost)](https://www.linkedin.com/in/gramost)
+[![Gmail Badge](https://img.shields.io/badge/-gramosti20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gramosti20@gmail.com)](mailto:gramosti20@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **GWRT/GWRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
