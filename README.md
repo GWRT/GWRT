@@ -5,10 +5,10 @@
 
 ## About me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studied Computer Engineering.
+- 🤔 &nbsp; Exploring new technologies.
+- 🎓 &nbsp; Studied System Engineering.
 - 💼 &nbsp; Learning about Native Application Development(Flutter and React Native).
-- 👾 &nbsp; A **student** working his way around things
+- 👾 &nbsp; A person working his way around things
 
 <br>
 
