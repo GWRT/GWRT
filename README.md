@@ -10,11 +10,11 @@
 - 💼 &nbsp; Learning about Native Application Development(Flutter and React Native).
 - 👾 &nbsp; A **student** working his way around things
 
-[![LinkedIn](https://img.shields.io/badge/-Gilbert%20Ramos-blue?style=plastic&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/gramost)](https://www.linkedin.com/in/gramost)
-[![Gmail Badge](https://img.shields.io/badge/-gramosti20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gramosti20@gmail.com)](mailto:gramosti20@gmail.com)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/Gilbert%20Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/gramost&target=_blank)](https://www.linkedin.com/in/gramost)
-[![Portfolio](https://img.shields.io/badge/iamgilbert.lat-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/Gilbert%20Ramos-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https:/www.linkedin.com/in/gramost)](https://www.linkedin.com/in/gramost)
+[![Gmail](https://img.shields.io/badge/-gramosti20@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:gramosti20@gmail.com)](mailto:gramosti20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/iamgilbert.lat-000000?style=flat-square&logo=About.me&logoColor=white)](iamgilbert.lat)
 
 
 
